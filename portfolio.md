@@ -79,6 +79,44 @@ FPGA/SoC designs combining Verilog, C, and platform-level integration on MicroBl
 
 ---
 
+## Recent Projects
+
+### Bucket-Conveyor Simulator
+Qt-based computer vision simulation for inspecting balls as they move through a multi-station conveyor system.
+
+- Simulated three threaded inspection stations with conveyor tracking and timed processing pipelines
+- Extracted color, radius, and defect features before producing confidence-scored PASS or REJECT verdicts
+- Logged inspection results and pipeline performance metrics to CSV for analysis
+- **Tech:** C++, Qt, CMake, computer vision simulation
+- [View on GitHub →](https://github.com/KarimWalidFawzy/Bucket-Conveyor_Simulator)
+
+### Tomato Disease Classifier
+Lightweight convolutional neural network for classifying healthy and diseased tomato fruit images.
+
+- Built a reproducible train, validation, and test pipeline with stratified data splitting
+- Reported accuracy, precision, recall, F1 score, confusion matrix, and CPU inference benchmarks
+- Exported model weights and metadata for single-image inference on constrained hardware
+- **Tech:** Python, CNN, machine learning
+- [View on GitHub →](https://github.com/KarimWalidFawzy/TomatoDiseaseClassifier)
+
+### Qt JSON Parser
+Desktop application for loading JSON files and displaying parsed users and posts.
+
+- Implemented file loading and structured parsing for user and post records
+- Organized the application with Qt Widgets, CMake, and dedicated model and parser classes
+- **Tech:** C++, Qt, CMake, JSON
+- [View on GitHub →](https://github.com/KarimWalidFawzy/JSONParser)
+
+### GUI Parser Project
+Parser application organized around lexical analysis and parsing components with a desktop interface.
+
+- Structured the project into separate lexical-analysis and parser modules
+- Included a build script and executable workflow for running the application
+- **Tech:** C++, parser design, lexical analysis
+- [View on GitHub →](https://github.com/KarimWalidFawzy/Python_GUI_Parser)
+
+---
+
 ## Technical Skills
 
 ### Programming
