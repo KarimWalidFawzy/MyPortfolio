@@ -91,12 +91,13 @@ Qt-based computer vision simulation for inspecting balls as they move through a 
 - [View on GitHub →](https://github.com/KarimWalidFawzy/Bucket-Conveyor_Simulator)
 
 ### Tomato Disease Classifier
-Lightweight convolutional neural network for classifying healthy and diseased tomato fruit images.
+Lightweight convolutional neural network for binary classification of healthy and diseased tomato fruit images.
 
-- Built a reproducible train, validation, and test pipeline with stratified data splitting
-- Reported accuracy, precision, recall, F1 score, confusion matrix, and CPU inference benchmarks
-- Exported model weights and metadata for single-image inference on constrained hardware
-- **Tech:** Python, CNN, machine learning
+- Built a reproducible training pipeline with stratified, disjoint train, validation, and test splits
+- Trained a roughly 390k-parameter custom CNN on 150 × 150 images with early stopping
+- Reported accuracy, precision, recall, F1 score, confusion matrix, and single-image CPU benchmarks
+- Exported model weights and input metadata for JSON-based inference on constrained hardware
+- **Tech:** Python, CNN, PyTorch, Docker, machine learning
 - [View on GitHub →](https://github.com/KarimWalidFawzy/TomatoDiseaseClassifier)
 
 ### Qt JSON Parser
