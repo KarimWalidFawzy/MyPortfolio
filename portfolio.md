@@ -118,6 +118,27 @@ Parser application organized around lexical analysis and parsing components with
 
 ---
 
+## Recently Completed Projects
+
+### AI Vision & Automation
+- **Bucket-Conveyor Simulator** — Built a Qt-based vision inspection system for multi-station conveyor workflows, including defect classification, confidence scoring, and CSV-based analytics.
+- **Tomato Disease Classifier** — Developed a lightweight CNN for plant disease detection with model evaluation, preprocessing, and deployment-ready inference artifacts.
+
+### Industrial IoT & Embedded Systems
+- **Industrial Predictive Maintenance AIoT** — Designed an end-to-end predictive maintenance platform integrating sensing, edge intelligence, and condition-based monitoring.
+- **Embedded Linux Project** — Delivered an embedded Linux edge solution for real-time data acquisition, device integration, and optimized low-latency processing.
+- **Industrial Oven RTOS Project** — Implemented a real-time temperature control system with scheduling, sensor feedback, and PID-driven stability validation.
+
+### FPGA & Hardware-Software Design
+- **Hardware-Software Codesign** — Created FPGA/SoC solutions using custom IP, UART interfaces, DMA integration, and hardware-assisted processing pipelines.
+- **SerDes GP ICpedia** — Worked on high-speed serial link design and equalization concepts as part of a modern hardware communication project.
+
+### Software Tools & Practical Engineering
+- **Pipeline Deployment** — Built CI/CD automation workflows for repeatable deployment and delivery processes.
+- **Qt JSON Parser** — Implemented a desktop application for structured JSON parsing and data presentation using a clean C++ model-based architecture.
+
+---
+
 ## Technical Skills
 
 ### Programming
@@ -175,6 +196,42 @@ Machine learning model for employee attrition prediction and insights.
 - **Tech:** Python, ML
 - [View on GitHub →](https://github.com/KarimWalidFawzy/AttritionForecast-Analysis-and-Prediction_results)
 
+---
+
+## Additional GitHub Repositories
+
+### final_project-dhub
+Project repository from a final applied-development milestone.
+
+- [View on GitHub →](https://github.com/KarimWalidFawzy/final_project-dhub)
+
+### mid_project-dhub
+Intermediate project repository from a multi-phase development workflow.
+
+- [View on GitHub →](https://github.com/KarimWalidFawzy/mid_project-dhub)
+
+### MedicalChatbotPrototype
+Prototype for a conversational healthcare/medical assistant experience.
+
+- [View on GitHub →](https://github.com/KarimWalidFawzy/MedicalChatbotPrototype)
+
+### EquipmentUtilization_and_ActivityClassification_Prototype
+Prototype focused on equipment utilization monitoring and activity classification.
+
+- [View on GitHub →](https://github.com/KarimWalidFawzy/EquipmentUtilization_and_ActivityClassification_Prototype)
+
+
+### Divider_circuit
+Digital circuit design repository covering divider implementation work.
+
+- [View on GitHub →](https://github.com/KarimWalidFawzy/Divider_circuit)
+
+### PIC-verilog-project
+Verilog-based project related to PIC system design and digital logic implementation.
+
+- [View on GitHub →](https://github.com/KarimWalidFawzy/PIC-verilog-project)
+### Pong
+Classic Pong game implementation with basic game mechanics and scoring using SDL3 and C++.
 ---
 
 ## Contact
